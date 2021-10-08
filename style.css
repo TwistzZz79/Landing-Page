@@ -8,8 +8,6 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  left: 0;
-  right: 0px;
   background-color: #1f2937;
 }
 nav {
@@ -84,11 +82,9 @@ nav {
   display: flex;
   flex-direction: column;
   padding: 32px;
-  
-  
 }
 .quote-section h2 {
-    display: flex;
+  display: flex;
   font-size: 36px;
   color: #1f2937;
   font-style: italic;
@@ -97,14 +93,12 @@ nav {
   justify-content: center;
   padding-left: 50px;
 }
-.quote-section p{
-    display:block;
-    color: #1f2937;
-    font-weight: bold;
-    
-    margin-right: 50px;
-    text-align: right;
-    
+.quote-section p {
+  display: block;
+  color: #1f2937;
+  font-weight: bold;
+  margin-right: 50px;
+  text-align: right;
 }
 .hero-img img {
   width: 400px;
@@ -162,11 +156,11 @@ nav {
   margin-top: 12px;
   color: #07090e;
 }
-.Order{
+.Order {
   background-color: #3882f6;
   align-items: center;
   justify-content: center;
-  margin:auto;
+  margin: auto;
   display: flex;
   border-radius: 8px;
   margin-top: 80px;
@@ -176,32 +170,30 @@ nav {
   flex-wrap: wrap;
   margin-bottom: 80px;
 }
-.Order h3{
-  
+.Order h3 {
   font-size: 24px;
-  color:#f9faf8;
+  color: #f9faf8;
   align-items: center;
   justify-content: center;
-  
 }
-.Order .order-text{
-  color:#f9faf8;
+.Order .order-text {
+  color: #f9faf8;
   padding-top: 8px;
   padding-right: 50px;
-  
 }
-.Order .button-part{
-  background:#f9faf8;
+.Order .button-part {
+  background: #f9faf8;
   border-radius: 8px;
   font-size: 12px;
   display: flex;
   margin-left: 120px;
 }
-.footer{
+.footer {
   display: flex;
   text-align: center;
   justify-content: center;
   background-color: #1f2937;
-  height:-30px;
+  height: 20px;
   color: #e5e7eb;
+  padding: 25px 0px;
 }
